@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: rgba(2, 2, 37, 0.752);
+}
+
+.container{
+    text-align: center;
+    margin-top: 22px;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+}
+button{
+    width: 100px;
+    height: 135px;
+    background-color: white;
+    font-size: 40px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    margin-inline: 11px;
+}
